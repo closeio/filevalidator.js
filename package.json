@@ -1,11 +1,8 @@
 {
   "name": "filevalidator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "File signature validation in JavaScript",
   "main": "filevalidator.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "Phil Freo <phil@philfreo.com> (http://philfreo.com/)",
   "license": "MIT"
 }
