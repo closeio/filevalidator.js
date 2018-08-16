@@ -18,7 +18,7 @@ function(filevalidator) {
 
     fileInput.addEventListener('change', function(e) {
         var file = e.currentTarget.files[0];
-        FileDetector.verifyFileType(file, ['mp3', 'wav'], function(valid) {
+        filevalidator.verifyFileType(file, ['mp3', 'wav'], function(valid) {
             alert('Valid mp3 or wave file: ' + !!valid);
         });
     });
