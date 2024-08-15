@@ -1,7 +1,8 @@
 {
   "name": "filevalidator",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "File signature validation in JavaScript",
+  "type": "module",
   "main": "filevalidator.js",
   "author": "Phil Freo <phil@philfreo.com> (http://philfreo.com/)",
   "license": "MIT"
